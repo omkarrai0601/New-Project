@@ -14,7 +14,7 @@ const router = require("./router");
 
 const mongoose = require("mongoose");
 
-Database_URL = "mongodb+srv://vaibhav789:vaibhav789@cluster0.lccx2wz.mongodb.net/?retryWrites=true&w=majority";
+Database_URL = "mongodb+srv://omkar321:omkar321@cluster0.l3vl2nf.mongodb.net/?retryWrites=true&w=majority";
 
 
 
